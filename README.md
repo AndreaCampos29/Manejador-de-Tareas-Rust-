@@ -27,6 +27,6 @@ Este comando elimina la tarea cuyo título coincide exactamente (y elimina todas
 ## Help (Ayuda)
 Este comando mostrara una pequeña lista de usos de cada comando.
 
-###Ejemplo:
+### Ejemplo:
 ```cargo run -- help```
 
